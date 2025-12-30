@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/16automne/kurly2025.git/static/css/main.de1b59de.css",
+    "main.js": "/16automne/kurly2025.git/static/js/main.658392d6.js",
+    "index.html": "/16automne/kurly2025.git/index.html",
+    "main.de1b59de.css.map": "/16automne/kurly2025.git/static/css/main.de1b59de.css.map",
+    "main.658392d6.js.map": "/16automne/kurly2025.git/static/js/main.658392d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de1b59de.css",
+    "static/js/main.658392d6.js"
+  ]
+}
